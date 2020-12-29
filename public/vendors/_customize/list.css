@@ -1,0 +1,36 @@
+* {
+    font-family: roboto;
+}
+
+.fillter-area {
+    border: 1px solid #777777;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+}
+
+.fillter-title {
+    background-color: #1F3247;
+    color: #fff;
+    padding: 5px 30px;
+}
+
+.fillter-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.btn-fillter {
+    width: 120px;
+}
+
+.thead-bluedark th {
+    background-color: #1F3247;
+    color: white;
+}
+
+.table {
+    font-size: 10px;
+    color: black;
+    text-align: center;
+    font-weight: 300;
+}

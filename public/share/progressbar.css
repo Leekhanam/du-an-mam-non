@@ -1,0 +1,10 @@
+#progressbar {
+    position: fixed;
+    top: 0;
+    height: 1.5px;
+    background-color: #29d;
+    width: 0;
+    z-index: 99999;
+    box-shadow: 0 0 10px #29d, 0 0 5px #29d;
+    opacity: 1.0;
+}

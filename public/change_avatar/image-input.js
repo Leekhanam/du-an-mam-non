@@ -1,0 +1,1 @@
+var KTImageInputDemo={init:function(){new KTImageInput("kt_image_1"),new KTImageInput("kt_image_2"),new KTImageInput("kt_image_3"),new KTImageInput("kt_image_4"),new KTImageInput("kt_image_5")}};KTUtil.ready(function(){KTImageInputDemo.init()});
